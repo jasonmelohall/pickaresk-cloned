@@ -1,0 +1,1 @@
+userGetInfo is working correctly
